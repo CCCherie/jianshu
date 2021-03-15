@@ -1,0 +1,54 @@
+{
+    "success": true,
+    "data": {
+        "articleList": [
+            {
+                "id": 1,
+                "title": "需求管理规范",
+                "desc": "前言 MOMO云敏捷项目管理，融合了敏捷、DevOps思想，打通了整个从需求、研发、测试、运维、运营的端到端敏捷。在实践中通过运维自动化...",
+                "imgUrl": "https://upload-images.jianshu.io/upload_images/2227009-4e58b6c33c6e67ba.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+            },
+            {
+                "id": 2,
+                "title": "需求管理规范",
+                "desc": "前言 MOMO云敏捷项目管理，融合了敏捷、DevOps思想，打通了整个从需求、研发、测试、运维、运营的端到端敏捷。在实践中通过运维自动化...",
+                "imgUrl": "https://upload-images.jianshu.io/upload_images/2227009-4e58b6c33c6e67ba.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+            },
+            {
+                "id": 3,
+                "title": "需求管理规范",
+                "desc": "前言 MOMO云敏捷项目管理，融合了敏捷、DevOps思想，打通了整个从需求、研发、测试、运维、运营的端到端敏捷。在实践中通过运维自动化...",
+                "imgUrl": "https://upload-images.jianshu.io/upload_images/2227009-4e58b6c33c6e67ba.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+            },
+            {
+                "id": 4,
+                "title": "需求管理规范",
+                "desc": "前言 MOMO云敏捷项目管理，融合了敏捷、DevOps思想，打通了整个从需求、研发、测试、运维、运营的端到端敏捷。在实践中通过运维自动化...",
+                "imgUrl": "https://upload-images.jianshu.io/upload_images/2227009-4e58b6c33c6e67ba.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+            }
+        ],
+        "recommendList": [
+            "https://cdn2.jianshu.io/assets/web/banner-s-daily-e6f6601abc495573ad37f2532468186f.png",
+            "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png",
+            "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png",
+            "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+        ],
+        "writerList": [
+            {
+                "id": 1,
+                "name": "cherie",
+                "info": "写了387.9k字 · 1.4k喜欢"
+            },
+            {
+                "id": 2,
+                "name": "cherie",
+                "info": "写了387.9k字 · 1.4k喜欢"
+            },
+            {
+                "id": 3,
+                "name": "cherie",
+                "info": "写了387.9k字 · 1.4k喜欢"
+            }
+        ]
+    }
+}
